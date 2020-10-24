@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # Copyright (c) 2013, Gary Servin <garyservin@gmail.com>
 #
 # This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
 
 import os
 import sys
-import commands
+
 
 from gettext import gettext as _
 from plugins.plugin import Plugin
